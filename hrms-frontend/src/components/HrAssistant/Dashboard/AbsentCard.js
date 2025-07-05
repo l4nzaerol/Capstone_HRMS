@@ -13,7 +13,7 @@ const AbsentCard = () => {
   }, []);
 
   const absentees = [
-    { name: 'Barayang, Crystal Anne A.', date: 'Feb 15', status: 'On Leave' },
+    { name: 'Barayang, Crystal Anne ', date: 'Feb 15', status: 'On Leave' },
     { name: 'Cabuyao, Donna Mae N.', date: 'Feb 15', status: 'On Leave' },
     { name: 'Concina, Renelyn S.', date: 'Feb 15–18', status: 'Sick Leave' },
     { name: 'Osias, Shariel D.', date: 'Feb 15–20', status: 'Vacation Leave' },
